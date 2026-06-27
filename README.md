@@ -71,5 +71,5 @@
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilchuk-jhonatan/)
 - [![Gmail](https://img.shields.io/badge/danilchukjhonatan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilchukjhonatan@gmail.com)
-- [![Discord](https://img.shields.io/badge/Jhonatan#6954-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Jhonatan%236954-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
 
