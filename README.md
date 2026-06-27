@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd0OGFoMGtsZWo2NjAydGYweGVmNGZwMXNtbnRuNXEwaWxqMGV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2g4aTNuMWo4NGZwd2VqcXFhcDQ2cG15YWMwYjdpZmpvNm0wbHdjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="400"/>
 </p>
 
 <h3 align="center">Machine Learning • Data Science • MLOps</h3>
@@ -78,5 +78,5 @@
   
 - [![Gmail](https://img.shields.io/badge/danilchukjhonatan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilchukjhonatan@gmail.com)
   
-- [![Discord](https://img.shields.io/badge/Jhonatan%236954-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
+[![Discord](https://img.shields.io/badge/Discord-Jhonatan%236954-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Jhonatan%236954)
 
