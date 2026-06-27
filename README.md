@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
 
-![Anime GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ2aGZ2bGZ2bGZ2bGZ2bGZ2bGZ2/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd0OGFoMGtsZWo2NjAydGYweGVmNGZwMXNtbnRuNXEwaWxqMGV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="400"/>
+</p>
 
 <h3 align="center">Machine Learning • Data Science • MLOps</h3>
 
