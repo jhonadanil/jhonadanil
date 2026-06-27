@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
+
+![Anime GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ2aGZ2bGZ2bGZ2bGZ2bGZ2bGZ2/giphy.gif)
+
 <h3 align="center">Machine Learning • Data Science • MLOps</h3>
 
 ---
@@ -70,6 +73,8 @@
 ## 📫 Contact
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilchuk-jhonatan/)
+  
 - [![Gmail](https://img.shields.io/badge/danilchukjhonatan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilchukjhonatan@gmail.com)
-[![Discord](https://img.shields.io/badge/Jhonatan%236954-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
+  
+- [![Discord](https://img.shields.io/badge/Jhonatan%236954-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
 
