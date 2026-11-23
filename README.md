@@ -11,6 +11,8 @@
 ## 💻 About Me
 
 - 🤖 Building Machine Learning and AI projects
+- 🎮 Desarrollando juegos, páginas web y apps
+- 🧩 Próximamente: integrar IA en mis proyectos
 - 📊 Passionate about Data Science & Analytics
 - ⚙️ Learning MLOps, Cloud and AI Engineering
 - 🐧 Linux enthusiast 
@@ -24,6 +26,10 @@
 - Deep Learning
 - Data Science
 - MLOps
+- Desarrollo de juegos
+- Desarrollo web
+- Desarrollo de apps
+- Integración de IA (próximamente)
 
 ---
 ## 🛠️ Tech Stack
@@ -68,6 +74,9 @@
 - 🚀 MLOps Pipelines
 - 📊 Exploratory Data Analysis
 - 🤖 Deep Learning Experiments
+- 🎮 Juegos
+- 🌐 Páginas web
+- 📱 Apps
 
 ---
 
