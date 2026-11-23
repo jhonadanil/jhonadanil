@@ -30,36 +30,23 @@
 ---
 ## 🛠️ Tecnologías
 
-### 💻 Lenguajes
+**Lenguajes:** &nbsp;
+<img src="https://skillicons.dev/icons?i=python,bash,js,ts,cs,html,css&theme=dark" height="32" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash" />
-</p>
+**Web y escritorio:** &nbsp;
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase,tauri&theme=dark" height="32" />
 
-### 📊 Ciencia de Datos
+**Juegos:** &nbsp;
+<img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="32" />
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" />
-</p>
+**Data Science y ML:** &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" />
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv&theme=dark" height="32" />
 
-### 🤖 Deep Learning
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" />
-</p>
-
-
-### 🐧 Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
+**Herramientas e IA:** &nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" height="32" />
+<img src="https://cdn.simpleicons.org/claude" height="32" alt="Claude" />
 
 ---
 
