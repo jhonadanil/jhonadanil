@@ -13,8 +13,6 @@
 - 🤖 Desarrollando proyectos de Machine Learning e IA
 - 🎮 Desarrollando juegos, páginas web y apps
 - 🧩 Próximamente: integrar IA en mis proyectos
-- 📊 Apasionado por la Ciencia de Datos y el Análisis
-- ⚙️ Aprendiendo MLOps, Cloud e Ingeniería de IA
 - 🐧 Entusiasta de Linux 
 - 📚 Siempre aprendiendo algo nuevo
 
@@ -22,10 +20,8 @@
 
 ## 🚀 Enfoque actual
 
-- Ingeniería de Machine Learning
-- Deep Learning
+- Ingeniería de ML y DL
 - Ciencia de Datos
-- MLOps
 - Desarrollo de juegos
 - Desarrollo web
 - Desarrollo de apps
@@ -68,12 +64,7 @@
 ---
 
 ## 📂 Proyectos destacados
-
-- 🧠 Laboratorios de Machine Learning
-- 📈 Proyectos de ML de principio a fin
-- 🚀 Pipelines de MLOps
-- 📊 Análisis exploratorio de datos
-- 🤖 Experimentos de Deep Learning
+- 📈 Proyectos de ML y DL
 - 🎮 Juegos
 - 🌐 Páginas web
 - 📱 Apps
