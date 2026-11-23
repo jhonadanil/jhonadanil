@@ -1,30 +1,30 @@
-<h1 align="center">Hi 👋, I'm Jhonatan</h1>
+<h1 align="center">Hola 👋, soy Jhonatan</h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2g4aTNuMWo4NGZwd2VqcXFhcDQ2cG15YWMwYjdpZmpvNm0wbHdjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="400"/>
 </p>
 
-<h3 align="center">Machine Learning • Data Science • MLOps</h3>
+<h3 align="center">Machine Learning • Ciencia de Datos • MLOps</h3>
 
 ---
 
-## 💻 About Me
+## 💻 Sobre mí
 
-- 🤖 Building Machine Learning and AI projects
+- 🤖 Desarrollando proyectos de Machine Learning e IA
 - 🎮 Desarrollando juegos, páginas web y apps
 - 🧩 Próximamente: integrar IA en mis proyectos
-- 📊 Passionate about Data Science & Analytics
-- ⚙️ Learning MLOps, Cloud and AI Engineering
-- 🐧 Linux enthusiast 
-- 📚 Always learning something new
+- 📊 Apasionado por la Ciencia de Datos y el Análisis
+- ⚙️ Aprendiendo MLOps, Cloud e Ingeniería de IA
+- 🐧 Entusiasta de Linux 
+- 📚 Siempre aprendiendo algo nuevo
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Enfoque actual
 
-- Machine Learning Engineering
+- Ingeniería de Machine Learning
 - Deep Learning
-- Data Science
+- Ciencia de Datos
 - MLOps
 - Desarrollo de juegos
 - Desarrollo web
@@ -32,15 +32,15 @@
 - Integración de IA (próximamente)
 
 ---
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías
 
-### 💻 Languages
+### 💻 Lenguajes
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
 
-### 📊 Data Science
+### 📊 Ciencia de Datos
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" />
@@ -59,7 +59,7 @@
 </p>
 
 
-### 🐧 Tools
+### 🐧 Herramientas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
@@ -67,13 +67,13 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Proyectos destacados
 
-- 🧠 Machine Learning Labs
-- 📈 End-to-End ML Projects
-- 🚀 MLOps Pipelines
-- 📊 Exploratory Data Analysis
-- 🤖 Deep Learning Experiments
+- 🧠 Laboratorios de Machine Learning
+- 📈 Proyectos de ML de principio a fin
+- 🚀 Pipelines de MLOps
+- 📊 Análisis exploratorio de datos
+- 🤖 Experimentos de Deep Learning
 - 🎮 Juegos
 - 🌐 Páginas web
 - 📱 Apps
@@ -81,7 +81,7 @@
 ---
 
 
-## 📫 Contact
+## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilchuk-jhonatan/)
 
